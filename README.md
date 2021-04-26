@@ -1,4 +1,4 @@
-## Projeto: Criação de aplicação de Gerenciamento de Cursos com Angular8 + NodeJS
+## Projeto: Criação de aplicação de Gerenciamento de Cursos com Angular + NodeJS
 
 - O intuito do projeto é criar uma aplicação de gerenciamento de cursos com Angular8 + NodeJS. Será utilizado uma api interna, que terá os cursos cadastrados. Essa api estará armazenada no proprio projeto (na pasta server do backend nodejs) e essa api será consumida para ser carregada no site os cursos que estão cadastrados. No projeto será simulado requisições http (put, post, get, delete) utilizando o nodejs como servidor backend. As requisições http apenas funcionará se o servidor BackEnd NodeJs estiver iniciado. Quando o servidor BackEnd for desativado, as requisições que foram realizadas no site serão descartadas.
 
